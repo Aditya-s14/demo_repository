@@ -1,1 +1,9 @@
 this is a text file
+-powerbi
+-version control -git and github
+-sql
+-big data
+-machine learning
+-edw
+-DL
+
